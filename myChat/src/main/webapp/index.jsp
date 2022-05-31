@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" type="text/css" href="styles.css">
         <script type="text/javascript" src="check.js"></script>
-        <title>The Chat Room</title>
+        <title>K-Lan Home</title>
     <link rel="shortcut icon" href="icon.jpeg" />
 
     </head>
